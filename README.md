@@ -1,6 +1,6 @@
 
 <h3 align="center">Popular Repositories</h3>
-<br />
+
 <p align="center">
 <a href="https://mflux.netlify.app/" target="_blank" rel="noreferrer"
   ><img src="https://github.com/mza-codes/mzaFlux/blob/a65bee3602d25a6f41957f7cf1f60e7784798821/src/Components/NavBar/mflux-red.png" width="140" alt="_logo" border="0"></a>
@@ -13,23 +13,16 @@
 </a>
 </p>
 
-<div align="center"> 
-<h3 >Current Working Stack</h3>
+<table align="center">
+  <tr width="100%">
+    <td valign="center" width="50%" ><img width="250px" src="https://pxmatrix.com/wp-content/uploads/2021/09/mernstack-dev.png"/> <br /> <p align="center"> Current Working Stack <br /><b>MERN</b></td>
+    <td valign="center" width="50%" >
+    <img width="250px" src="https://png.pngtree.com/png-vector/20220527/ourmid/pngtree-system-administrator-data-hardware-server-png-image_4755206.png"/> <br /> <p align="center"> Previous Role <br />
+    <b>System Administrator </b></td>
+  </tr>
+</table>
 
-<a href="https://github.com/mza-codes/minimal-react">
-    <img src="https://pxmatrix.com/wp-content/uploads/2021/09/mernstack-dev.png" width="250px" alt="mern" border="0">
-</a>
-
-</div>
-<!--
-<div align="center"> 
-<h3>Previous Role</h3>
-<p>System Administrator</p>
-<a href="https://github.com/mza-codes/minimal-react">
-    <img src="https://png.pngtree.com/png-vector/20220527/ourmid/pngtree-system-administrator-data-hardware-server-png-image_4755206.png" width="250px" alt="mern" border="0">
-</a>
-</div>
-<br /> -->
+<!--  -->
 <!-- https://png.pngtree.com/png-vector/20220527/ourmid/pngtree-system-administrator-data-hardware-server-png-image_4755206.png
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mza-codes&show_icons=true&theme=great-gatsby" alt="mza-codes" /> -->
 
