@@ -36,7 +36,9 @@
 <p align="center"> <a href="#"> <img src="https://github-readme-stats.vercel.app/api?username=mza-codes&show_icons=true&theme=blue-green&count_private=true&border_color=A0E4CB&text_color=CFF5E7&icon_color=CFF5E7&title_color=03c04a&custom_title=server@dev-mza:~$%20git%20status" alt="mza-codes" /> </a></p>
 
 <p align="center">
+  <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mza-codes&theme=blue-green&hide=html,css&title_color=03c04a&text_color=CFF5E7&icon_color=CFF5E7&border_color=A0E4CB" />
+  </a>
 </p>
 
 <!-- 
