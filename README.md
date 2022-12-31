@@ -4,11 +4,22 @@
 <p align="center">
 <a href="https://mflux.netlify.app/" target="_blank" rel="noreferrer"
   ><img src="https://github.com/mza-codes/mzaFlux/blob/a65bee3602d25a6f41957f7cf1f60e7784798821/src/Components/NavBar/mflux-red.png" width="140" alt="_logo" border="0"></a>
- <a href="https://github.com/mza-codes/minimal-react"
-    ><img src="https://github.com/mza-codes/minimal-react/blob/62fd10162f49d62abf1aa6b4ec1d5fadbab4a38f/public/logo.png" width="50" alt="react_tailwind" border="0"></a>
+ <a href="https://github.com/mza-codes/minimal-react" target="_blank" rel="noreferrer"
+    ><img src="https://github.com/mza-codes/minimal-react/blob/62fd10162f49d62abf1aa6b4ec1d5fadbab4a38f/public/logo.png" width="50" alt="react_tailwind" border="0"></a> 
+ &nbsp;
+ <a href="https://mza-codes.github.io/TodoApp-mza/" target="_blank" rel="noreferrer">
+   <img src="https://play-lh.googleusercontent.com/HUuQc4Zpl6x7fUyX-jFMmcuUbW77REw4UKl5rfhHfP4VY6ctBU1w1I_RZWsXaojFgIo" width="50" alt="todoapp" border="0">
+ </a>
+ &nbsp;
+ <a href="https://macrobay.netlify.app/" target="_blank" rel="noreferrer">
+   <img src="https://www.qololo.com/static/brand/logo_single.svg" width="50" alt="todoapp" border="0">
+ </a>
+  &nbsp;
+ <a href="https://mza-codes.github.io/" target="_blank" rel="noreferrer">
+   <img src="https://static.thenounproject.com/png/62495-200.png" width="50" alt="todoapp" border="0">
+ </a>
  <br/>
  <br/>
- <a href="https://github.com/mza-codes/minimal-react">
    <a href="#">
     <img src="https://img.freepik.com/free-vector/red-stamp-white-background_1035-4808.jpg?w=360" width="70" alt="coming_soon" border="0">
 </a>
