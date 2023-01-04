@@ -61,29 +61,19 @@
   </tr>
 </table>
 
-<!--  -->
-<!-- https://png.pngtree.com/png-vector/20220527/ourmid/pngtree-system-administrator-data-hardware-server-png-image_4755206.png
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mza-codes&show_icons=true&theme=great-gatsby" alt="mza-codes" /> -->
-
-<!-- Session -->
-<!-- Shows JavaScript @ 100%  -->
-<!-- <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mza-codes&hide=html,css,python,scss,handlebars,php,roff,powershell,shell,c&title_color=fff3be&text_color=fff3be&icon_color=CFF5E7&bg_color=111&border_color=ffeea4" />
-</p> -->
 <p align="center"> <a href="#"> 
   <img src="https://github-readme-stats.vercel.app/api?username=mza-codes&show_icons=true&theme=blue-green&count_private=true&border_color=A0E4CB&text_color=CFF5E7&icon_color=CFF5E7&title_color=03c04a&custom_title=server@dev-mza:~$%20git%20status&bg_color=111" alt="mza-codes" /> </a>
 </p>
 
+<a href="#" align="center" > <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mza-codes&theme=react-dark" /> </a>
 <p align="center">
- <!-- ![](https://github-readme-stats.vercel.app/api?username=mza-codes&theme=radical0&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mza-codes&theme=radical0&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mza-codes&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
- <a href="#"> 
+<a href="#" > 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mza-codes&theme=dark&show_icons=true" alt="mza-codes" /> </a>
     <br />
   <br />
-  <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mza-codes&theme=dark&include_all_commits=true&count_private=true&layout=compact" /></a>
+<a href="#" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mza-codes&theme=dark&include_all_commits=true&count_private=true&layout=compact" />
+</a>
    
   <!-- <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mza-codes&theme=blue-green&hide=html,css&title_color=03c04a&text_color=CFF5E7&icon_color=CFF5E7&border_color=A0E4CB" />
