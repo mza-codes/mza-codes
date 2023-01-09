@@ -28,8 +28,8 @@
 <p align="center">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> &nbsp;
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+     <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="zustand" width="80" height="40"/> </a>
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
     <br />
@@ -41,11 +41,10 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp; &nbsp;
     <br />
     <br />
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> &nbsp; &nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-   <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="zustand" width="80" height="40"/> </a>
-  <a href="https://iconify.design/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/50354982?s=200&v=4" alt="zustand" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="38" height="38"/> </a> 
 </p>
 
 <br>
@@ -62,7 +61,7 @@
 </table>
 
 <p align="center"> <a href="#"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=mza-codes&show_icons=true&theme=blue-green&count_private=true&border_color=A0E4CB&text_color=CFF5E7&icon_color=CFF5E7&title_color=03c04a&custom_title=server@dev-mza:~$%20git%20status&bg_color=111" alt="mza-codes" /> </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mza-codes&show_icons=true&theme=great-gatsby&custom_title=server@dev-mza:~$%20git%20status" alt="mza-codes" /> </a>
 </p>
 
 <a href="#" align="center" > <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mza-codes&theme=react-dark" /> </a>
@@ -72,10 +71,13 @@
     <br />
   <br />
 <a href="#" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mza-codes&theme=dark&include_all_commits=true&count_private=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mza-codes&theme=dark&include_all_commits=flase&count_private=true&layout=compact" />
 </a>
    
   <!-- <a href="#">
+green github card
+<img src="https://github-readme-stats.vercel.app/api?username=mza-codes&show_icons=true&theme=blue-green&count_private=true&border_color=A0E4CB&text_color=CFF5E7&icon_color=CFF5E7&title_color=03c04a&custom_title=server@dev-mza:~$%20git%20status&bg_color=111" alt="mza-codes" />
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mza-codes&theme=blue-green&hide=html,css&title_color=03c04a&text_color=CFF5E7&icon_color=CFF5E7&border_color=A0E4CB" />
   </a> -->
 </p>
