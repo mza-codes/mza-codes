@@ -48,7 +48,7 @@
 </p>
 
 <br>
-
+<!--
 <table align="center">
   <tr width="100%">
      <td valign="center" width="50%" ><a href="#">
@@ -56,10 +56,13 @@
     <!-- <td valign="center" width="50%" ><a href="#">
     <img width="250px" src="https://png.pngtree.com/png-vector/20220527/ourmid/pngtree-system-administrator-data-hardware-server-png-image_4755206.png"/> <br /> <p align="center"> Previous Role <br />
     <b>System Administrator </b>
-</td> -->
+</td> 
   </tr>
-</table>
+</table> -->
 
+<p align="center"> <a href="#"> 
+  <img src="https://www.thedormstoncentre.co.uk/wp-content/uploads/available-for-hire.png" alt="mza-codes" width="80" /> </a>
+</p>
 <p align="center"> <a href="#"> 
   <img src="https://github-readme-stats.vercel.app/api?username=mza-codes&show_icons=true&theme=great-gatsby&custom_title=server@dev-mza:~$%20git%20status" alt="mza-codes" /> </a>
 </p>
