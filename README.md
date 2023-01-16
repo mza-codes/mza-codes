@@ -64,7 +64,7 @@
   <img src="https://www.thedormstoncentre.co.uk/wp-content/uploads/available-for-hire.png" alt="mza-codes" width="80" /> </a>
 </p>
 <p align="center"> <a href="#"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=mza-codes&show_icons=true&theme=great-gatsby&custom_title=server@dev-mza:~$%20git%20status" alt="mza-codes" /> </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mza-codes&show_icons=true&theme=dark&custom_title=server@dev-mza:~$%20git%20status" alt="mza-codes" /> </a>
 </p>
 
 <a href="#" align="center" > <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mza-codes&theme=react-dark" /> </a>
@@ -74,16 +74,17 @@
     <br />
   <br />
 <a href="#" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mza-codes&theme=dark&include_all_commits=flase&count_private=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mza-codes&theme=great-gatsby&include_all_commits=flase&count_private=true&layout=compact" />
 </a>
+</p>
    
   <!-- <a href="#">
-green github card
+green github card &theme=great-gatsby (orange theme)
 <img src="https://github-readme-stats.vercel.app/api?username=mza-codes&show_icons=true&theme=blue-green&count_private=true&border_color=A0E4CB&text_color=CFF5E7&icon_color=CFF5E7&title_color=03c04a&custom_title=server@dev-mza:~$%20git%20status&bg_color=111" alt="mza-codes" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mza-codes&theme=blue-green&hide=html,css&title_color=03c04a&text_color=CFF5E7&icon_color=CFF5E7&border_color=A0E4CB" />
   </a> -->
-</p>
+
 
 <!-- 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mza-codes&show_icons=true&theme=blue-green&count_private=true&border_color=001F1E&text_color=fc5662&icon_color=fc5662&title_color=fc000d&custom_title=GitHub%20Status) -->
