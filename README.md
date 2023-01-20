@@ -74,7 +74,7 @@
     <br />
   <br />
 <a href="#" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mza-codes&theme=great-gatsby&include_all_commits=flase&count_private=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mza-codes&theme=great-gatsby&include_all_commits=true&hide=css,html&count_private=true&layout=compact" />
 </a>
 </p>
    
