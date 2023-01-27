@@ -18,6 +18,11 @@
  <a href="https://mza-codes.github.io/" target="_blank" rel="noreferrer">
    <img src="https://static.thenounproject.com/png/62495-200.png" width="50" alt="todoapp" border="0">
  </a>
+  &nbsp;
+  <!--
+ <a align="center" href="#">
+<img src="https://github.com/mza-codes/mza-codes/blob/945ce3bb55d152ff43f3f6c296c18e83f37fd89c/mediclog.PNG" alt="medic_log" width="120" >
+</a> -->
  <br/>
  <br/>
    <a href="#">
@@ -60,9 +65,10 @@
   </tr>
 </table> -->
 
+<!--
 <p align="center"> <a href="#"> 
   <img src="https://www.thedormstoncentre.co.uk/wp-content/uploads/available-for-hire.png" alt="mza-codes" width="80" /> </a>
-</p>
+</p> -->
 <p align="center"> <a href="#"> 
   <img src="https://github-readme-stats.vercel.app/api?username=mza-codes&show_icons=true&theme=dark&custom_title=server@dev-mza:~$%20git%20status" alt="mza-codes" /> </a>
 </p>
