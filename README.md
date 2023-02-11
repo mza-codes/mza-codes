@@ -37,17 +37,19 @@
      <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="zustand" width="80" height="40"/> </a>
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> &nbsp;&nbsp;
-     <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="30" height="30"/> </a> &nbsp;&nbsp;
-     <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Prisma_app_logo.png/230px-Prisma_app_logo.png" alt="prisma" width="30" height="30"/> </a>&nbsp;&nbsp;
-     <a href="https://next-auth.js.org/" target="_blank" rel="noreferrer"> <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="nextAuth" width="30" height="30"/> </a>
+     <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="36" height="36"/> </a> &nbsp;&nbsp;
+     <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Prisma_app_logo.png/230px-Prisma_app_logo.png" alt="prisma" width="36" height="36"/> </a>&nbsp;&nbsp;
+     <a href="https://next-auth.js.org/" target="_blank" rel="noreferrer"> <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="nextAuth" width="36" height="36"/> </a>
     <br />
     <br />
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> &nbsp; &nbsp;
+  <!--
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios7/600/000000/express-js.png" alt="nodejs" width="40" height="40"/> </a> &nbsp; &nbsp; -->
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/node-js-2.png" alt="express" width="50" height="50"/> </a> &nbsp; &nbsp;
     <a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/astro-logo-B3B4DABB0A-seeklogo.com.png" alt="astro" width="36" height="36"/> </a> &nbsp; &nbsp;
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp; &nbsp;
+  <a href="https://trpc.io/" target="_blank" rel="noreferrer"> <img src="https://trpc.io/img/logo.svg" alt="trpc" width="40" height="40"/> </a> &nbsp; &nbsp;
     <br />
     <br />
     <a href="https://remix.run/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="remixjs" width="40" height="40"/> </a> &nbsp; &nbsp;
