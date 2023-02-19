@@ -50,13 +50,16 @@
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp; &nbsp;
   <a href="https://trpc.io/" target="_blank" rel="noreferrer"> <img src="https://trpc.io/img/logo.svg" alt="trpc" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <br />
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/postgresql-9-1175120.png" alt="postgresql" width="40" height="40"/> </a> &nbsp; &nbsp;  
+  <br />
     <br />
     <a href="https://remix.run/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" alt="remixjs" width="40" height="40"/> </a> &nbsp; &nbsp;
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> &nbsp; &nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp;
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="38" height="38"/> </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="38" height="38"/> </a>  &nbsp; &nbsp;
+    <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/mui-logo-56F171E991-seeklogo.com.png" alt="mui" width="38" height="38"/> </a>  &nbsp; &nbsp;
+    <a href="https://mantine.dev/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/mantine-logo-235E19C978-seeklogo.com.png" alt="mantine_ui" width="38" height="38"/> </a> 
 </p>
 
 <br>
